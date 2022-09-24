@@ -1,1 +1,1 @@
-# simply_art
+# Simply Art
